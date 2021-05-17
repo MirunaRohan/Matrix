@@ -1,0 +1,6 @@
+﻿  Main.cpp
+C:\Users\MIRUNA\Desktop\C++ Diverse\Cramer C++\Cramer\Cramer\Main.cpp(20,6): warning C4101: 'nr': unreferenced local variable
+  MyMatrix.cpp
+  Generating Code...
+C:\Users\MIRUNA\Desktop\C++ Diverse\Cramer C++\Cramer\Cramer\MyMatrix.cpp(106): warning C4172: returning address of local variable or temporary: Mat2
+  Cramer.vcxproj -> C:\Users\MIRUNA\Desktop\C++ Diverse\Cramer C++\Cramer\x64\Debug\Cramer.exe
